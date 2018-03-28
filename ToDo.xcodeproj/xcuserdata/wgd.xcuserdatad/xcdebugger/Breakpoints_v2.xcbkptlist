@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ToDoTests/Controller/ItemListDataProviderTests.swift"
+            timestampString = "543818111.5992219"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
+            landmarkName = "test_DeleteButton_InFirstSection_ShowsTitleCheck()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ToDoTests.ItemListDataProviderTests.test_DeleteButton_InFirstSection_ShowsTitleCheck() -&gt; ()"
+                  moduleName = "ToDoTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wgd/iOS/TestDriven/ToDo/ToDoTests/Controller/ItemListDataProviderTests.swift"
+                  timestampString = "543818112.689379"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "883">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "implicit closure #2 : @autoclosure () throws -&gt; Swift.Optional&lt;Swift.String&gt; in ToDoTests.ItemListDataProviderTests.test_DeleteButton_InFirstSection_ShowsTitleCheck() -&gt; ()"
+                  moduleName = "ToDoTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wgd/iOS/TestDriven/ToDo/ToDoTests/Controller/ItemListDataProviderTests.swift"
+                  timestampString = "543818112.695401"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
